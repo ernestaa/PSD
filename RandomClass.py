@@ -5,7 +5,7 @@
 # that the random number could be.
 
 import random
-
+#3rd modification
 
 class RandomNum:
     def __init__(self, minRange, maxRange, amount):
