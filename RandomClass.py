@@ -19,7 +19,6 @@ class RandomNum:
 
     @classmethod
     def get_user_input(self):
-        # while 1:
         try:
             self.minRange = int(input('Enter the minimum possible random number: '))
             self.maxRange = int(input('Enter  the maximum possible random number: '))
